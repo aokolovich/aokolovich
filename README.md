@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Artemy Okolovich
 
-<!--
-**aokolovich/aokolovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Developer · Solution Architect**
 
-Here are some ideas to get you started:
+I design and build scalable software end to end — from architecture decisions to production code. I care about clean APIs, maintainable codebases, and solutions that stand up to real traffic.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+
+### Architecture & Tooling
+- Solution & system design, microservices, event-driven architectures
+- APIs (REST, GraphQL, gRPC)
+- Cloud-native development and containerization
+- CI/CD pipelines and DevOps practices
+
+## 📫 Get in touch
+
+- GitHub: [@aokolovich](https://github.com/aokolovich)
