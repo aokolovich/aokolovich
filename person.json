@@ -1,0 +1,19 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Artemy Okolovich",
+    "url": "https://okolovich.com",
+    "jobTitle": "Software Engineer",
+    "knowsAbout": [
+        "React",
+        "TypeScript",
+        "Frontend Engineering",
+        "AI Engineering",
+        "Agentic AI",
+        "Micro Frontends"
+    ],
+    "sameAs": [
+        "https://github.com/aokolovich",
+        "https://www.linkedin.com/in/artemy-okolovich-55262819/"
+    ]
+}

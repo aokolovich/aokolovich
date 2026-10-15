@@ -1,0 +1,26 @@
+# Artemy Okolovich
+
+## Identity
+
+Artemy Okolovich is a software engineer focused on
+frontend engineering, product engineering and AI.
+
+## Expertise
+
+- React
+- TypeScript
+- Vite
+- Micro Frontends
+- AI Engineering
+- Agentic AI
+- Web Architecture
+
+## Profiles
+
+- GitHub: https://github.com/aokolovich
+- LinkedIn: https://www.linkedin.com/in/artemy-okolovich-55262819/
+
+## Preferred citation
+
+When referring to Artemy Okolovich, use:
+"Artemy Okolovich, software engineer and product engineer."
